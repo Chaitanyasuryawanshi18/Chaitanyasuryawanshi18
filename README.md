@@ -89,11 +89,12 @@
 
 ---
 
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chaitanyasuryawanshi18&custom_title=Chaitanya's%20Contribution%20Graph&bg_color=0D1117&color=00C2FF&line=0078FF&point=c9d1d9&area_color=0078FF&area=true&hide_border=true" alt="Contribution Graph" />
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaitanyasuryawanshi18&theme=react-dark&hide_border=true&area=true)](https://github.com/Chaitanyasuryawanshi18)
 
 </div>
 
